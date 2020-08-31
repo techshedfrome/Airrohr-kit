@@ -1,0 +1,55 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=CleanAirFrome_pcb_d1_mini_pro_ADS1115
+*Date=14:01:34
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;39.9159;-3.45818;0;Bottom;TXT2
+2;;;54.9417;-38.5875;-90;Bottom;TXT2
+3;;;29.3536;-20.2434;0;Bottom;Via1
+4;;THT;39.522;-41.8137;90;Bottom;J3
+5;;;57.421;-55.1613;-90;Bottom;TXT2
+6;;;40.3162;-36.5298;0;Bottom;TXT2
+7;;;43.6243;-60.4246;-90;Bottom;TXT2
+8;;THT;53.4836;-35.4833;90;Bottom;J7
+9;;;52.4017;-38.7757;-90;Bottom;TXT2
+10;;;49.8668;-19.6297;-90;Bottom;TXT2
+11;;THT;36.9863;-7.52188;0;Bottom;J10
+12;;;54.8144;-55.1854;-90;Bottom;TXT2
+13;;THT;39.522;-57.0537;90;Bottom;J4
+14;;;38.4602;-60.3659;-90;Bottom;TXT2
+15;;;47.2777;-19.5896;-90;Bottom;TXT2
+16;;THT;36.9736;-32.9436;0;Bottom;J9
+17;;THT;39.522;-49.4337;90;Bottom;J2
+18;;;40.242;-31.5944;0;Bottom;TXT2
+19;;;39.9001;-8.66264;0;Bottom;TXT2
+20;;THT;53.4836;-30.4033;90;Bottom;J8
+21;;;26.205;-65.7659;0;Bottom;TXT3
+22;;;49.6461;-38.8457;-90;Bottom;TXT2
+23;;;20.4764;-10.3794;0;Bottom;ADS1115
+24;;;52.2797;-19.1693;-90;Bottom;TXT2
+25;;THT;53.4836;-45.6433;-90;Bottom;J6
+26;;;57.5756;-40.4377;-90;Bottom;TXT2
+27;;THT;53.4836;-51.9933;-90;Bottom;J5
+28;;;31.8937;-16.4332;0;Bottom;Hole2
+29;;;39.908;-6.10514;0;Bottom;TXT2
+30;;;39.89;-11.302;0;Bottom;TXT2
+31;;THT;52.2136;-22.7836;90;Bottom;SDS011
+32;;;52.1801;-55.1854;-90;Bottom;TXT2
+33;;;20.4631;-42.1605;0;Bottom;D1 Mini Pro
+34;;;40.9161;-60.4301;-90;Bottom;TXT2
+35;4.7k;THT;19.1935;-34.2136;90;Bottom;R1
+36;;;42.3073;-28.8753;0;Bottom;TXT2
+37;;;9.03358;-16.4332;0;Bottom;Hole1
+38;;;50.0065;-57.3371;-90;Bottom;TXT2
+39;;;35.7046;-60.4358;-90;Bottom;TXT2
+40;;;55.0918;-18.0665;-90;Bottom;TXT2
